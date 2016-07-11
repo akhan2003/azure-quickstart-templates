@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "azureUser"
+      "value": "Ansible"
     },
     "adminPassword": {
       "value": "pass@word1"
