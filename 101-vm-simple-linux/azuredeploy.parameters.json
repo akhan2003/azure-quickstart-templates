@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "Ansible"
+      "value": "akhan"
     },
     "adminPassword": {
-      "value": "pass@word1"
+      "value": "Pass@word1"
     },
     "dnsLabelPrefix": {
       "value": "GEN-UNIQUE"
