@@ -6,7 +6,7 @@
       "value": "azureUser"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "pass@word1"
     },
     "dnsLabelPrefix": {
       "value": "GEN-UNIQUE"
